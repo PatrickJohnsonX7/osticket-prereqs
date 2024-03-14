@@ -32,7 +32,8 @@ This is a tutorial for the prerequisites and installation of osTicket. An open-s
 ![Github image 4](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/13b78ba1-78b2-4523-a003-8a63f16aa4cc)
  ![Gethub image 5](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/b4a986f5-a6a2-4e6c-830d-b05effa532d5)
  ![Github image 6](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/675edc78-bed2-4296-8310-7b316b98f709)
-![Github image 7](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/77d186bf-f6a0-4cd6-b839-afd2f64fdb32)
+![Github image 7](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/9548f7cf-de20-439a-ad48-d00d48f33071)
+
 
 - Item 2
 - Item 3
