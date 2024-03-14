@@ -20,7 +20,20 @@ This is a tutorial for the prerequisites and installation of osTicket. An open-s
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
+- Step 1-Create Resource group in Azure 
+![Github image 1](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/5af82d82-c523-41bf-be69-f5a6afb2ce09)
+
+![githum image 2](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/2e6f4775-516c-4971-8bb8-cc8ddbd37a9f)
+
+
+-Step 2-Create a Windows 10 VM(Virtual Machine) with 2-4 virtual CPUs
+  A) When creating the VM, also create a new virtual network(Vnet)
+![Github image 3](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/9355ec6b-412a-47d3-87a1-ef0e07277ec3)
+![Github image 4](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/13b78ba1-78b2-4523-a003-8a63f16aa4cc)
+ ![Gethub image 5](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/b4a986f5-a6a2-4e6c-830d-b05effa532d5)
+ ![Github image 6](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/675edc78-bed2-4296-8310-7b316b98f709)
+![Github image 7](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/77d186bf-f6a0-4cd6-b839-afd2f64fdb32)
+
 - Item 2
 - Item 3
 - Item 4
@@ -28,11 +41,10 @@ This is a tutorial for the prerequisites and installation of osTicket. An open-s
 
 <h2>Installation Steps</h2>
 
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is the first step when it comes to prerequestes that are needed before installing OS Ticket
 </p>
 <br />
 
