@@ -49,9 +49,13 @@ Step 1-Install/Enable IIS in Windows with CGI and Common HTTP Features. Go to th
 
 ![Github image 11](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/111fb1ce-22a4-475c-b0be-80f5b625ac57)
 
+Step 2-Download PHP manager for ISS, rewrite Module, and VC_redist.
 
-</p>
-<br />
+![Github image 12](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/6a71df0b-0cb9-4ba7-a566-026f6d98479b)
+
+Step 3-Install MySQL. A)Username and Password
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
