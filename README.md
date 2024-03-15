@@ -36,12 +36,18 @@ This is a tutorial for the prerequisites and installation of osTicket. An open-s
 ![Github image 7](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/9548f7cf-de20-439a-ad48-d00d48f33071)
 
 
-- Item 2
-- Item 3
-- Item 4
-- Item 5
 
 <h2>Installation Steps</h2>
+Step 1-Install/Enable IIS in Windows with CGI and Common HTTP Features. Go to the control panel and select programs. Once in programs pick "Turn Windows features on or off". Computer will restart(do not be alarmed).
+
+![Github image 8](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/1ebd018d-0cf4-4304-8159-7ea01f931dbf)
+
+![Github image 9-3](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/eadf0f8c-73a4-4663-ba13-e45dc4cc9e75)
+
+![Github image 10](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/cd6f8507-a893-4cb0-a9d4-d0ff5658f6e3)
+
+
+
 
 
 
