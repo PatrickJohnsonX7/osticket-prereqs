@@ -73,6 +73,15 @@ Step 3-Install MySQL and HeidiSQL
 
 ![Github image 13](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/76cd1308-ca7e-473c-b82e-d42477d1cace)
 
+
+![Github image 24](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/0d2ae1fa-e31e-4b25-83a1-2563897394a3)
+
+
+Open IIS as administrator and register PHP from within IIS
+
+![Github image 25](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/f41e0e9d-1989-4f74-9a5d-32c53ad055a9)
+
+
 Once programs are installed write down username and password. Once credentials are committed to memory delete file of personal information. 
 
 ![Github image 14](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/4a3d45d4-f6f5-4e9f-8709-89f9bdcae074)
