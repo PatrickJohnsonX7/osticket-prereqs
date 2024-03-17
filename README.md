@@ -141,4 +141,8 @@ Enable some extensions. Go back to IIS-sites-default-osTicket. Click PHP manager
 
 ![Github image 43-1](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/041f0ff9-9c09-4a3d-90c5-312a3062fd0d)
 
+Return to osTicket 
+
+
+![Github image 44](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/1649f499-fdef-4b8a-81d2-58f193e064e2)
 
