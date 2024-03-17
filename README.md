@@ -173,4 +173,7 @@ Add "Everyone". Click Principal and add "Everyone". Lastly apply new changes
 ![Github image 50](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/309ef548-7e0c-48b2-9cad-ebd1b3c32fe9)
 ![Github image 51](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/a547949c-f1ce-451c-bd9a-638950e662fe)
 
+Return to OSTicket and finsih information 
+
+
 
