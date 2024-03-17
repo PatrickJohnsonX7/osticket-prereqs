@@ -49,14 +49,22 @@ Step 1-Install/Enable IIS in Windows with CGI and Common HTTP Features. Go to th
 
 ![Github image 11](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/111fb1ce-22a4-475c-b0be-80f5b625ac57)
 
-Step 2-Download PHP manager for ISS, rewrite Module, and VC_redist.
+Step 2-Download PHP manager for ISS, php, rewrite Module, and VC_redist.
 
-![Github image 12](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/6a71df0b-0cb9-4ba7-a566-026f6d98479b)
+
+![Github inage 21](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/68fe145b-1491-4e4e-b1be-9c878d83fcda)
 
 Create new PHP folder on C drive.
 
 
 ![Github image 17](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/58a5ce6d-6369-46a8-90c1-a400422b8351)
+
+Extrat PHP manager into PHP File
+
+![Github image 18](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/ea102242-2f0b-416b-a276-76e3869f01ab)
+
+
+![Github image 20](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/60d81a97-95fe-4dda-bf6a-aec2b8a9ebc2)
 
 
 Step 3-Install MySQL and HeidiSQL
