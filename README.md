@@ -82,6 +82,8 @@ Open IIS as administrator and register PHP from within IIS
 ![Github image 25](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/f41e0e9d-1989-4f74-9a5d-32c53ad055a9)
 
 
+![Github image 26-1](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/f85528c5-4d66-46b9-8778-58a4b0af8a37)
+
 Once programs are installed write down username and password. Once credentials are committed to memory delete file of personal information. 
 
 ![Github image 14](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/4a3d45d4-f6f5-4e9f-8709-89f9bdcae074)
