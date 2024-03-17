@@ -59,7 +59,7 @@ Create new PHP folder on C drive.
 
 ![Github image 17](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/58a5ce6d-6369-46a8-90c1-a400422b8351)
 
-Extrat PHP manager into PHP File
+Extrat PHP file into PHP File
 
 ![Github image 18](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/ea102242-2f0b-416b-a276-76e3869f01ab)
 
