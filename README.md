@@ -53,22 +53,12 @@ Step 2-Download PHP manager for ISS, rewrite Module, and VC_redist.
 
 ![Github image 12](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/6a71df0b-0cb9-4ba7-a566-026f6d98479b)
 
-Step 3-Install MySQL. A)Username and Password
+Step 3-Install MySQL. A)Username and Password and HeidiSQL
 
 
+![Github image 13-2](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/40cb1c0f-a454-4983-ae70-0582a30f1c05)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![Github image 13](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/76cd1308-ca7e-473c-b82e-d42477d1cace)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Once programs are installed write down username and password. Once credentials are committed to memory delete file of personal information. 
+
