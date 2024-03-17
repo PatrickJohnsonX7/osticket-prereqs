@@ -150,6 +150,12 @@ Rename "ost-sample-config.php" to ost-config.php. Go to Windows C-inetpub-wwwroo
 
 ![Github image 45](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/c99556b4-2869-4c37-867b-404d75807cf8)
 
-Assign permiddions on ost-config.php. Disable inheritance-remove all. New permissions-everyone-all
+Assign permissions ost-config.php. Right click ost-config.php and go to properties
 
 
+
+![Github image 47](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/d6fa7717-178f-4f7a-801c-b471422b7b21)
+
+Go to security and click advanced
+
+![Github image 46](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/4bce2600-6661-4a16-a062-ae18ff4d79b2)
