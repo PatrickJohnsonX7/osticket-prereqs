@@ -126,6 +126,9 @@ rename to osTicket
 
 ![Github image 36](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/81f48ea9-06bd-46be-853c-77c9baaba9e5)
 
+Reload IIS-go to sites-default-OSTicket. Then "Browse *.80"
 
+
+![Github image 37](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/dbcce7d9-2f0c-4d05-a115-22764b50d585)
 
 
