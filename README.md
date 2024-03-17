@@ -178,3 +178,32 @@ Return to OSTicket and finsih information
 ![Github image 52](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/b394e5cc-8d2f-488e-a670-1a82f9b33230)
 
 Before completing download HeidiSQL
+
+![Github image 53](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/e63412c7-b2cc-4725-baa1-8e6dfc0d52af)
+
+![Github image 54](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/e1e56898-338c-4197-b665-0ef3c87e34ab)
+
+Create new session and create a new database called "osTicket"
+![Github image 56](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/5cc00929-c566-49c6-81ac-4b49178e33cf)
+
+![Github image 59](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/1fe020cd-df17-410a-b61b-b23e70d48f88)
+![Github image 60](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/46803de8-a917-4ee1-ab92-19b7f30f8094)
+
+Go back to OSTicket setup
+![Github image 61](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/fdedd6c6-9f3e-46fc-929e-16a974512379)
+
+![Github image 62](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/49cb3e84-7beb-4133-8eee-e16feb884660)
+
+Clean up. Delete setup folder in wwwroot
+![Github image 63](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/89cbe44c-ee33-447f-afbc-aebe96bef9e5)
+
+Set Permissions to "Read" only in ost-config.php
+
+![Github image 64](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/d954af52-787d-40f5-82ca-185381a31cc9)
+
+Navigate to OSTicket to make sure program is running properly
+
+
+![Github image 65](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/6d220ef0-919c-4b44-96f4-78ff1a58283f)
+
+Complete
