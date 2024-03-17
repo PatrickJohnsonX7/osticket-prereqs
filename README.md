@@ -96,7 +96,7 @@ Open IIS as administrator and register PHP from within IIS
 
 Once programs are installed write down username and password. Once credentials are committed to memory delete file of personal information. 
 
-Step 4-Install OSTicket 
+Step 4-Install OSTicket and HeidiSQL
 
 ![Github image 16](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/c49f0ac3-9454-46bc-af24-05b67eab51eb)
 
@@ -175,5 +175,6 @@ Add "Everyone". Click Principal and add "Everyone". Lastly apply new changes
 
 Return to OSTicket and finsih information 
 
+![Github image 52](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/b394e5cc-8d2f-488e-a670-1a82f9b33230)
 
-
+Before completing download HeidiSQL
