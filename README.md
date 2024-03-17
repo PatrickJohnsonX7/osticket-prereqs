@@ -146,3 +146,8 @@ Return to osTicket
 
 ![Github image 44](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/1649f499-fdef-4b8a-81d2-58f193e064e2)
 
+Rename "ost-sample-config.php" to ost-config.php. Go to Windows C-inetpub-wwwroot-osTicket-include
+
+![Github image 45](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/c99556b4-2869-4c37-867b-404d75807cf8)
+
+
