@@ -131,4 +131,6 @@ Reload IIS-go to sites-default-OSTicket. Then "Browse *.80"
 
 ![Github image 37](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/dbcce7d9-2f0c-4d05-a115-22764b50d585)
 
+![Github image 38](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/66c49022-9175-4be3-8728-e2d255aa2f4e)
+
 
