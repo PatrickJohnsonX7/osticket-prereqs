@@ -133,4 +133,12 @@ Reload IIS-go to sites-default-OSTicket. Then "Browse *.80"
 
 ![Github image 38](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/66c49022-9175-4be3-8728-e2d255aa2f4e)
 
+Enable some extensions. Go back to IIS-sites-default-osTicket. Click PHP manager then click "Enable or disable an extension". Enable three options. 
+
+![Github image 39](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/92c31760-52a9-4baf-b2e2-9ccdd3fb0861)
+
+![Github image 40](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/003e2d8b-0dd9-46e6-9734-76bb5a990634)
+
+![Github image 43-1](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/041f0ff9-9c09-4a3d-90c5-312a3062fd0d)
+
 
