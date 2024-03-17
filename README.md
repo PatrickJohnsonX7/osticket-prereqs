@@ -159,3 +159,18 @@ Assign permissions ost-config.php. Right click ost-config.php and go to properti
 Go to security and click advanced
 
 ![Github image 46](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/4bce2600-6661-4a16-a062-ae18ff4d79b2)
+
+Disable inheritance-remove all inherited permissions from this object 
+
+![Github image 48](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/07a3e4b6-e216-42f0-82cd-c02777603153)
+
+Add "Everyone". Click Principal and add "Everyone". Lastly apply new changes
+
+
+![Github image 49](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/e38f3ab7-cb94-4a2f-b5fa-2ec2c23eab7f)
+
+
+![Github image 50](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/309ef548-7e0c-48b2-9cad-ebd1b3c32fe9)
+![Github image 51](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/a547949c-f1ce-451c-bd9a-638950e662fe)
+
+
