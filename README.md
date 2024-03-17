@@ -150,4 +150,6 @@ Rename "ost-sample-config.php" to ost-config.php. Go to Windows C-inetpub-wwwroo
 
 ![Github image 45](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/c99556b4-2869-4c37-867b-404d75807cf8)
 
+Assign permiddions on ost-config.php. Disable inheritance-remove all. New permissions-everyone-all
+
 
