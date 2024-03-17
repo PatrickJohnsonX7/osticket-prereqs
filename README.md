@@ -62,3 +62,8 @@ Step 3-Install MySQL. A)Username and Password and HeidiSQL
 
 Once programs are installed write down username and password. Once credentials are committed to memory delete file of personal information. 
 
+![Github image 14](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/4a3d45d4-f6f5-4e9f-8709-89f9bdcae074)
+![Github image 15](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/3ee92d75-78e8-4c52-beb9-3cffbaa89e05)
+
+
+
