@@ -53,8 +53,13 @@ Step 2-Download PHP manager for ISS, rewrite Module, and VC_redist.
 
 ![Github image 12](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/6a71df0b-0cb9-4ba7-a566-026f6d98479b)
 
-Step 3-Install MySQL. A)Username and Password and HeidiSQL
+Create new PHP folder on C drive.
 
+
+![Github image 17](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/58a5ce6d-6369-46a8-90c1-a400422b8351)
+
+
+Step 3-Install MySQL and HeidiSQL
 
 ![Github image 13-2](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/40cb1c0f-a454-4983-ae70-0582a30f1c05)
 
@@ -65,5 +70,8 @@ Once programs are installed write down username and password. Once credentials a
 ![Github image 14](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/4a3d45d4-f6f5-4e9f-8709-89f9bdcae074)
 ![Github image 15](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/3ee92d75-78e8-4c52-beb9-3cffbaa89e05)
 
+Step 4-Install OSTicket 
+
+![Github image 16](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/c49f0ac3-9454-46bc-af24-05b67eab51eb)
 
 
