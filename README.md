@@ -103,4 +103,6 @@ Step 4-Install OSTicket
 
 ![Github image 16](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/c49f0ac3-9454-46bc-af24-05b67eab51eb)
 
+Extract and copy "upload" folder to wwwroot 
+
 
