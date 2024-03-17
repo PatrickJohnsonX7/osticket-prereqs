@@ -67,7 +67,7 @@ Extrat PHP file into PHP File
 ![Github image 20](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/60d81a97-95fe-4dda-bf6a-aec2b8a9ebc2)
 
 
-Step 3-Install MySQL and HeidiSQL
+Step 3-Install MySQL
 
 ![Github image 13-2](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/40cb1c0f-a454-4983-ae70-0582a30f1c05)
 
@@ -96,13 +96,36 @@ Open IIS as administrator and register PHP from within IIS
 
 Once programs are installed write down username and password. Once credentials are committed to memory delete file of personal information. 
 
-![Github image 14](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/4a3d45d4-f6f5-4e9f-8709-89f9bdcae074)
-![Github image 15](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/3ee92d75-78e8-4c52-beb9-3cffbaa89e05)
-
 Step 4-Install OSTicket 
 
 ![Github image 16](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/c49f0ac3-9454-46bc-af24-05b67eab51eb)
 
 Extract and copy "upload" folder to wwwroot 
+
+
+![Github image 30](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/dee29b6b-66c4-4894-9d14-bd2e8eb5e4cb)
+
+
+
+![Github image 31](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/bf4c010e-b23e-4ca6-bdca-f35ee1895e3a)
+
+![Github image 32](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/d291114c-98eb-4cba-a1c5-18f4ea329b92)
+
+
+![Github image 33](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/dbb50c9f-4060-4a81-a5f4-9f65d71c7330)
+
+
+![Github image 34](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/45b78e1b-b605-40fb-be2a-462d0dfb64b2)
+
+Drag "upload" folder to wwwroot
+
+![Github image 35](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/9570d6b5-233a-4360-bab6-882dc8eaf410)
+
+rename to osTicket
+
+
+![Github image 36](https://github.com/PatrickJohnsonX7/osticket-prereqs/assets/163357195/81f48ea9-06bd-46be-853c-77c9baaba9e5)
+
+
 
 
